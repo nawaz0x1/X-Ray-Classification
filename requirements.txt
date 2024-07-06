@@ -1,0 +1,12 @@
+# Standard libraries
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+
+# TensorFlow and Keras
+tensorflow
+
+# Streamlit
+streamlit

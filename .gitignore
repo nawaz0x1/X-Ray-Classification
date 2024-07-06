@@ -1,0 +1,3 @@
+# Ignore Large Model Files
+
+*.keras
