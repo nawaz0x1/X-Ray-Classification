@@ -1,12 +1,13 @@
 # Standard libraries
-numpy
-pandas
-matplotlib
-seaborn
-pillow
+numpy==1.26.4
+pandas==2.1.4
+matplotlib==3.8.0
+seaborn==0.13.2
+pillow==10.2.0
 
 # TensorFlow and Keras
-tensorflow
+tensorflow==2.16.1
+keras==3.3.3
 
 # Streamlit
-streamlit
+streamlit==1.36.0
